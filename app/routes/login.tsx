@@ -7,7 +7,10 @@ export default function Login() {
         {/* Logo/Título */}
         <div className="text-center mb-8">
           <h1 className="text-3xl font-bold text-gray-900">PMaster</h1>
+<<<<<<< HEAD
           <p className="text-gray-600 mt-2">Gestión de proyectos simplificada</p>
+=======
+>>>>>>> f741361 (Actualice 2 interfaces, dashboard y login, para que fueran mas parecidas y congruentes con las pantallas de mobil)
         </div>
 
         {/* Formulario */}
